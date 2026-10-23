@@ -2,6 +2,13 @@
 
 **A Full-Stack Software Engineering Showcase by Nathaniel Emenike**
 
+## Screenshots
+
+| Dashboard | Match analysis | Performance |
+|---|---|---|
+| <img src="foresia-dashboard.png" width="260" alt="Foresia dashboard"> | <img src="foresia-match-analysis.png" width="260" alt="Foresia match analysis"> | <img src="foresia-performance.png" width="260" alt="Foresia performance"> |
+
+*Screenshots use sample data to show the design. They are not real predictions.*
 Foresia is an AI-assisted sports probability analysis platform designed to transform bookmaker odds into structured probability insights. It combines market-implied probabilities, bookmaker consensus, AI-assisted analysis, automated data processing, and historical result tracking in one application.
 
 This public repository serves as a **software engineering portfolio showcase** of Foresia's architecture, technical approach, and engineering capabilities. The primary application repository is private, while this public repository documents the project's design, technology stack, features, and engineering decisions.
